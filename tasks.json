@@ -1,0 +1,51 @@
+[
+  {
+    "TaskName": "complete to-do list",
+    "TaskDueDate": "2025-07-23",
+    "TaskCategory": "STUDY",
+    "TaskPriority": "HIGH",
+    "TaskCompleted": false
+  },
+  {
+    "TaskName": "do trading",
+    "TaskDueDate": "2025-12-31",
+    "TaskCategory": "WORK",
+    "TaskPriority": "HIGH",
+    "TaskCompleted": false
+  },
+  {
+    "TaskName": "call mom",
+    "TaskDueDate": "2025-07-22",
+    "TaskCategory": "OTHER",
+    "TaskPriority": "LOW",
+    "TaskCompleted": true
+  },
+  {
+    "TaskName": "game",
+    "TaskDueDate": "2025-07-22",
+    "TaskCategory": "OTHER",
+    "TaskPriority": "LOW",
+    "TaskCompleted": false
+  },
+  {
+    "TaskName": "goon ",
+    "TaskDueDate": "2025-07-23",
+    "TaskCategory": "OTHER",
+    "TaskPriority": "LOW",
+    "TaskCompleted": true
+  },
+  {
+    "TaskName": "check",
+    "TaskDueDate": "2025-07-23",
+    "TaskCategory": "WORK",
+    "TaskPriority": "MEDIUM",
+    "TaskCompleted": false
+  },
+  {
+    "TaskName": "add task check",
+    "TaskDueDate": "2025-07-24",
+    "TaskCategory": "WORK",
+    "TaskPriority": "MEDIUM",
+    "TaskCompleted": true
+  }
+]
